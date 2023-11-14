@@ -65,12 +65,6 @@ def create_folder_if_not_exists(folder_path):
         print(f"Folder '{folder_path}' already exists.")
 
 
-# Example usage:
-folder_path = "path/to/your/folder"
-
-create_folder_if_not_exists(folder_path)
-
-
 from datetime import datetime, timedelta
 
 
